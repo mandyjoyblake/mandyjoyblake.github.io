@@ -5,7 +5,7 @@ menutitle: Home
 menuorder: 1
 ---
 
-I am a student majoring in English at Union College set to graduate in 2022. 
+Current and forever student of English.  
 
 ## Current Interests and Projects:
 
