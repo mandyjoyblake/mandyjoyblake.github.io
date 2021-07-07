@@ -17,10 +17,13 @@ Bachelor of Arts, English Major, Theatre Arts/Gender, Sexuality & Women’s Stud
 
 `2021`
 Edward Everett Hale Jr. Prize for best essay by a Sophomore or Junior 
+
 `2021`
 Sigma Tau Delta English Honor Society Historian 
+
 `2021`
 Order of Omega Greek Honor Society 
+
 `2019-2021`
 Dean's List Recipient 
 
@@ -41,6 +44,7 @@ Dean's List Recipient
 ## Occupation
 
 `January 2021-Present`
+
 __Public Relations Vice President__, Gamma Phi Beta, Union College 
 - Serve as a member of the chapter’s executive council, represent the interests of the Public Relations department at executive council meetings and communicate pertinent information back to the department. 
 - Supervise the work of all Public Relations department officers: set goals with officers, lead regular department meetings, monitor the department budget and communicate regularly with all department officers and their advisors. 
@@ -49,6 +53,7 @@ __Public Relations Vice President__, Gamma Phi Beta, Union College
 - Encourage philanthropic involvement and participation within fraternity and sorority life organizations and campus student organizations. 
 
 `March-June 2021`
+
 __Intern__, Hip Media Australia  
 - Coordinate meetings, on-boarding, and all projects from a different time zone, in a fully remote capacity
 - Assist with the writing and publishing of content such as press releases to websites and social media
