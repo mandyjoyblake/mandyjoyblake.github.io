@@ -1,18 +1,18 @@
 # Site wide configuration
 
-title: Site Title
+title: Amanda Blakeman
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Amanda Blakeman
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "Student of English at Union College set to graduate in 2022"
+  email: blakemaa@union.edu
   # Do not include the @ symbol in your Twitter username
   twitter: #username
-  linkedin: #username
+  linkedin: [Amanda Blakeman] ("www.linkedin.com/in/amanda-blakeman-431b7b1a1")
   github: #username
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
