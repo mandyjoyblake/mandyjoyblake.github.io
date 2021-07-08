@@ -11,4 +11,3 @@ As a rising senior at Union College, I believe that I have made the most of my p
 
 In addition to academics, I have involved myself in a variety of different extracurricular activities and experiences at Union. In December of 2019, I traveled to London for an immersive study abroad focusing on West End theatre and British History, which certainly piqued my interest in more travel. During the spring of 2021, I participated in a global internship with a publishing house in Sydney, Australia that was fully remote due to the pandemic travel restrictions. 
 
-While my interests are diverse, 
