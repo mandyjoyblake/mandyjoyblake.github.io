@@ -41,7 +41,7 @@ Dean's List Recipient
 *Critical Theory Dictionary*, Union College Manifold  
 
 
-## Occupation
+## Relevant Experience
 
 `January 2021-Present`
 
