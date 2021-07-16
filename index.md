@@ -4,6 +4,11 @@ excerpt: "About..."
 menutitle: Home
 menuorder: 1
 ---
+## Currently
+
+Participating in the Summer IDEaS program with Union College's Schaffer Library to gain experience in the digital humanities field, ultimately working with a team to produce scholarship relating to the college's history. Also beginning work on my senior thesis with Union's English and Gender, Sexuality, and Women's Studies departments, where I hope to focus on the "feminist" female lead in the emerging world of Young Adult fiction. 
+
+## About Me 
 
 Current and forever student of language, storytelling, and communication, no matter the format. 
 
