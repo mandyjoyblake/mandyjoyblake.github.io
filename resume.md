@@ -10,8 +10,8 @@ Participating in the Summer IDEaS program with Union College's Schaffer Library 
 ## Education
 
 `2018-Present`
-__Union College__
-Bachelor of Arts, English Major, Theatre Arts/Gender, Sexuality & Women’s Studies Minors
+__Union College__ B.A.
+English Major, Theatre Arts/Gender, Sexuality & Women’s Studies Minors
 
 ## Honors & Awards
 
